@@ -1,4 +1,4 @@
-# CafeByToastology-CIS17B-Final-Project
+# Café by Toastology
 
 <h3> Project Description </h3>
 Cafe by Toastology is a virtual cafe where users may interact to purchase various delicious toasts. The backend of this program covers user and admin software. Each user and admin has a different interface and functionalities for the shopping catalog. Additionally, they are also allowed to view this website and interact with it. However, when the user wants to purchase a toast, they need to have an account. Users will be prompted from selecting the toast up to checkout, where user fill in their address, contact information, and payment type. A unique feature embedded in this program is a personality test which may help the user define their toast and help them navigate in choosing their toast. In contrast, the admin will have the backend view of the barebone of the program. Admin will have the privilege to add, update, and delete products, user accounts, and messages. This program is coded in various languages with a Mac operating system. There is HTML, CSS, and JavaScript utilized for the frontend, PHP for the backend, and MySQL for the database. 
